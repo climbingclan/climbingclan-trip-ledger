@@ -1,5 +1,5 @@
 function refreshCredentials() {
-  const spreadsheetId = '1MVTO45ZusIw2BRgtRh4BffPRbbuIZHViZKPZE3OntEc'; // Caving Crew credentials store
+  const spreadsheetId = '1SrAoBolkSkz8HcF2ce6o4B6ZeU_6-c2VOaOsKY2C3gE'; // Climbing Clan credentials store
   const sheet = SpreadsheetApp.openById(spreadsheetId).getSheetByName('Credentials');
   const data = sheet.getDataRange().getValues();
   const headers = data.shift();

@@ -1,5 +1,5 @@
 {
-  "name": "qms-audit-project",
+  "name": "climbingclan-trip-ledger",
   "version": "1.0.0",
   "description": "A Google Apps Script to document qms layout and functionality.",
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tdobson/qms-audit-project.git"
+    "url": "git+https://github.com/climbingclan/climbingclan-trip-ledger.git"
   },
   "author": "Tim Dobson",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/tdobson/qms-audit-project/issues"
+    "url": "https://github.com/climbingclan/climbingclan-trip-ledger/issues"
   },
-  "homepage": "https://github.com/tdobson/qms-audit-project#readme",
+  "homepage": "https://github.com/climbingclan/climbingclan-trip-ledger#readme",
   "dependencies": {
     "@types/google-apps-script": "^1.0.56",
     "clasp": "^1.0.0"
