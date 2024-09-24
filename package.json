@@ -1,7 +1,7 @@
 {
   "name": "climbingclan-trip-ledger",
   "version": "1.0.0",
-  "description": "A Google Apps Script to document qms layout and functionality.",
+  "description": "A Google Apps Script to document trips and order ID for accounting.",
   "scripts": {
     "push": "clasp push --auth ~/.clasprc.timmydobson.json",
     "pull": "clasp pull --auth ~/.clasprc.timmydobson.json",
