@@ -17,7 +17,7 @@
     "url": "git+https://github.com/tdobson/qms-audit-project.git"
   },
   "author": "Tim Dobson",
-  "license": "All Rights Reserved",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/tdobson/qms-audit-project/issues"
   },
